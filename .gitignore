@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+.venv/
+venv/
+
+# Airflow runtime
+airflow_home/
+logs/
+airflow.cfg
+airflow.db*
+simple_auth_manager_passwords.json*
+
+# Database
+database/*.db
+database/*.db-*
+
+# Secrets
+.env
+*.pem
+*.key
+
+# Backup files
+*.bak

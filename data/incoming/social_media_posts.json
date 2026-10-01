@@ -1,0 +1,41 @@
+[
+  {
+    "post_id": "P1001",
+    "user_id": "U101",
+    "username": "rahul",
+    "post_type": "image",
+    "caption": "Beautiful day in Bangalore",
+    "hashtags": ["#bangalore", "#travel"],
+    "likes": 250,
+    "comments": 35,
+    "shares": 20,
+    "media_file": "post001.jpg",
+    "created_at": "2026-09-30 10:15:00"
+  },
+  {
+    "post_id": "P1002",
+    "user_id": "U102",
+    "username": "priya",
+    "post_type": "image",
+    "caption": "My travel photography",
+    "hashtags": ["#travel", "#photography"],
+    "likes": 500,
+    "comments": 80,
+    "shares": 45,
+    "media_file": "post002.jpg",
+    "created_at": "2026-09-30 11:30:00"
+  },
+  {
+    "post_id": "P1003",
+    "user_id": "U101",
+    "username": "rahul",
+    "post_type": "image",
+    "caption": "Weekend photography",
+    "hashtags": ["#photography", "#bangalore"],
+    "likes": 180,
+    "comments": 25,
+    "shares": 10,
+    "media_file": "post003.jpg",
+    "created_at": "2026-09-30 12:00:00"
+  }
+]
